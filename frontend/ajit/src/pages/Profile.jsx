@@ -10,6 +10,7 @@ CalendarDays,
 LayoutDashboard,
 Mic,
 } from "lucide-react";
+import "./Profile.css";
 
 import { useAuth } from "../context/AuthContext";
 
